@@ -28,9 +28,6 @@ I love building efficient, scalable, and impactful applications.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 
-## 📈 GitHub Stats  
-![Miftahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=miftahulislam2023&show_icons=true&theme=radical)  
-
 ## 🌎 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miftahulislambd)  
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/miftahulislam)  
