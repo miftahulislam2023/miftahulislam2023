@@ -39,3 +39,5 @@ I love building efficient, scalable, and impactful applications.
 I enjoy learning about digital electronics and experimenting with hardware projects alongside software development!  
 
 Feel free to collaborate on exciting projects! 🚀
+
+![Visitor Count](https://profile-counter.glitch.me/miftahulislam2023/count.svg)
