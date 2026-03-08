@@ -1,6 +1,6 @@
 Educator | Cybersecurity Consultant | Nextjs Developer | Founder @miftahcoding
 
-With 10+ years experience in programming, I'm a passionate learner who thrives on building new skills and sharing knowledge with the community. 
+With 11+ years experience in programming, I'm a passionate learner who thrives on building new skills and sharing knowledge with the community. 
 
 It's not the features, it’s about the problems we solve.
 
