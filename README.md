@@ -1,8 +1,6 @@
-Educator | Cybersecurity Consultant | Nextjs Developer | Founder @miftahcoding
+Very Passionate Educator | Accidentally Web Developer & Founder | Cybersecurity Consultant
 
-With 11+ years experience in programming, I'm a passionate learner who thrives on building new skills and sharing knowledge with the community. 
-
-It's not the features, it’s about the problems we solve.
+With 11+ years experience in programming, I'm a passionate learner who thrives on building new skills and sharing knowledge with the community.
 
 ## Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/miftahulislambd)  
